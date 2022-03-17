@@ -1,0 +1,16 @@
+
+
+ https://api.nomics.com/v1/currencies/ticker?
+key=bdb993ea4a71d5e7d9d20014df33fb5f&ids=BTC,ETH,SHIB&interval=1d,30d,365d&
+convert=EUR
+
+
+https://api.nomics.com/v1/currencies?key=bdb993ea4a71d5e7d9d20014df33fb5f&ids=BTC&attributes=id,name,logo_url,description,reddit_url
+
+https://api.nomics.com/v1/currencies?key=bdb993ea4a71d5e7d9d20014df33fb5f&ids=ETH&attributes=id,name,logo_url,description,reddit_url
+
+https://api.nomics.com/v1/currencies?key=bdb993ea4a71d5e7d9d20014df33fb5f&ids=DOGE&attributes=id,name,logo_url,description,reddit_url
+
+https://api.nomics.com/v1/currencies?key=bdb993ea4a71d5e7d9d20014df33fb5f&ids=SHIB&attributes=id,name,logo_url,description,reddit_url
+
+https://api.nomics.com/v1/currencies?key=bdb993ea4a71d5e7d9d20014df33fb5f&ids=TRX&attributes=id,name,logo_url,description,reddit_url
