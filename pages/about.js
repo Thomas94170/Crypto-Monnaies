@@ -17,11 +17,11 @@ export default function About(){
             </p>
             <br/>
             <div className='flex justify-between text-amber-300'>
-            <a href='https://tailwindcss.com' target='_blank'  rel="noreferrer" rel="noopener" >https://tailwindcss.com/</a>
+            <a href='https://tailwindcss.com' rel = 'noopener noreferrer' target='_blank'   >https://tailwindcss.com/</a>
             
-            <a href='https://nextjs.org/' target='_blank'  rel="noreferrer"  rel="noopener">https://nextjs.org/</a>
+            <a href='https://nextjs.org/' rel = 'noopener noreferrer' target='_blank'  >https://nextjs.org/</a>
 
-            <a href='https://nomics.com/' target='_blank'  rel="noreferrer"  rel="noopener">https://nomics.com/</a>
+            <a href='https://nomics.com/' rel = 'noopener noreferrer' target='_blank' >https://nomics.com/</a>
             </div>
             </div>
              
