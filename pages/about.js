@@ -9,10 +9,10 @@ export default function About(){
             <h1 className='text-4xl'>À propos</h1> 
              <br/>
             <p>
-                Ce projet a été réalisé dans le cadre de l'apprentissage du métier de développeur web.
+                Ce projet a été réalisé dans le cadre de la formation du métier de développeur web.
                 Ce projet a été réalisé avec Next.js et Tailwindcss.
                 Next.js est le framework de React, Tailwindcss est un framework CSS permettant de construire rapidement
-                des sites web modernes sans jamais quitter notre HTML. Je me suis servi de l'API de Nomics pour les cryptos monnaies.
+                des sites web modernes sans jamais quitter notre HTML. Je me suis servi de : API de Nomics pour les cryptos monnaies.
                     
             </p>
             <br/>
